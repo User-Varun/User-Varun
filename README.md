@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React , Javascript**
 
-- 👯 I’m looking to collaborate on **Pair Programmer**
+- 👯 I’m looking to collaborate with **Pair Programmers**
 
 - 📫 How to reach me **pawarvarun706@gmail.com**
 
