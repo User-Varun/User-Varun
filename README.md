@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=user-varun&label=Profile%20views&color=0e75b6&style=flat" alt="user-varun" /> </p>
 <img src="https://hackernoon.com/images/f2px36fy.gif" alt="programming gif" width="400px" align ="right" />
-- 🔭 I’m currently working on **Some Personal Projects using **
+- 🔭 I’m currently working on **Some Personal Projects using HTML CSS and JavaScript**
 
 - 🌱 I’m currently learning **React , Javascript**
 
