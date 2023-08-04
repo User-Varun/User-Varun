@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Varun Pawar</h1>
 <h3 align="center">Frontend dev from India</h3>
 
-<iframe src="https://giphy.com/embed/MeJgB3yMMwIaHmKD4z" width="480" height="394" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/2000s-00s-middle-school-MeJgB3yMMwIaHmKD4z">via GIPHY</a></p>
 <img src="https://hackernoon.com/images/f2px36fy.gif" alt="programming gif" width="400px" align ="right" />
 - 🔭 I’m currently working on **Some Personal Projects using HTML CSS and JavaScript**
 
