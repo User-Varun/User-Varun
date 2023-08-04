@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **pawarvarun706@gmail.com**
 - Check out my projects yourself **https://html-css-projects-nine.vercel.app/**
-- this out this manybook page **https://personal-projects-nu.vercel.app/**
+- Check out this manybook page **https://personal-projects-nu.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
