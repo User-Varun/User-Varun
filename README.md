@@ -9,8 +9,8 @@
 - 👯 I’m looking to collaborate with **friends to make projects with!**
 
 - 📫 How to reach me **pawarvarun706@gmail.com**
-- Check out this manybook page **https://personal-projects-nu.vercel.app/**
-- these are the projects I cloned **https://html-css-projects-nine.vercel.app/**
+- Check out this manybook page ****
+- these are the projects I cloned ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
