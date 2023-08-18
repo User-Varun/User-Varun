@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Varun Pawar</h1>
 <h3 align="center">Frontend dev from India</h3>
 
+![](https://komarev.com/ghpvc/?username=your-github-User-Varun)
+
 <img src="https://hackernoon.com/images/f2px36fy.gif" alt="programming gif" width="400px" align ="right" />
 - 🔭 I’m currently working on **Some Personal Projects using HTML CSS and JavaScript**
 
