@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Varun</h1>
 <h3 align="center">A frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=user-varun&label=Profile%20views&color=0e75b6&style=flat" alt="user-varun" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=user-varun&label=Profile%20views&color=0e75b6&style=flat" alt="user-varun" /> </p>
 
 - 🔭 I’m currently working on **Personal projects**
 
@@ -15,8 +15,8 @@
 
 - 📫 How to reach me **varunpawardigital@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+<p align="center">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
