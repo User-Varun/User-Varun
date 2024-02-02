@@ -5,7 +5,7 @@
 <!--
 <img  align="right" src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif"> --> 
 
-<img  align="right" height='300px' width='500px' border-radius='50px' src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif">
+<img  align="right" height='300px' width='400px' border-radius='50px' src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif">
 
 - 🔭 I’m currently working on **Personal projects**
 
