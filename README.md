@@ -2,8 +2,10 @@
 <h3 align="center">Frontend developer from India</h3>
 
 <p align="center" > <img src="https://komarev.com/ghpvc/?username=user-varun&label=Profile%20views&color=0e75b6&style=flat" alt="user-varun" /> </p>
+<!--
+<img  align="right" src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif"> --> 
 
-<img  align="right" src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif">
+<img  align="right" height='300px' width='500px' border-radius='50px' src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif">
 
 - 🔭 I’m currently working on **Personal projects**
 
