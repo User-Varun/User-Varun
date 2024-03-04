@@ -4,11 +4,11 @@
 <p align="center" > <img src="https://komarev.com/ghpvc/?username=user-varun&label=Profile%20views&color=0e75b6&style=flat" alt="user-varun" /> </p>     
 <!--
 <img  align="right" src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif"> --> 
-<!--
-<img  align="right" height='300px' width='300px' src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif">  -->
+
+<img  align="right" height='300px' width='495px' src="[https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif](https://giphy.com/gifs/space-pixel-art-planet-l3978y5HqiEtqupiM)">  
 
 
-<p ><img  align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=user-varun" alt="user-varun" /></p>
+
 
 - 🔭 I’m currently working on **Personal projects**
 
@@ -33,7 +33,7 @@
 <p ><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=user-varun&show_icons=true&locale=en&layout=compact" alt="user-varun" /></p>
 
 
-
+<p ><img  align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=user-varun" alt="user-varun" /></p>
 
 
 
