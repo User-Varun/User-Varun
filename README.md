@@ -5,9 +5,7 @@
 <!--
 <img  align="right" src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif"> --> 
 
-<img  align="right" height='300px' width='495px' src="[https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif](https://giphy.com/gifs/space-pixel-art-planet-l3978y5HqiEtqupiM)">  
-
-
+<img  align="right" height='300px' width='495px' src="https://github.com/User-Varun/User-Varun/assets/135313164/c4621ee5-a0f4-49a7-aae7-7bfbd9002c4e">  
 
 
 - 🔭 I’m currently working on **Personal projects**
@@ -19,9 +17,6 @@
 - 🤝 I’m looking for help with **backend stuff 😉**
 
 - 📫 How to reach me **varunpawardigital@gmail.com**
-
-
-
 
 
 <h3 align="left">Languages and Tools:</h3>
