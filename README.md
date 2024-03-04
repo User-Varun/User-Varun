@@ -9,13 +9,11 @@
 
 - 🔭 I’m currently working on **Personal projects**
 
-- 🌱 I’m currently learning **React, Express,MongoDB**
+- 🌱 I’m currently learning **React, Express.js , MongoDB**
 
 - 👯 I’m looking to collaborate on **Full Stack projects**
 
 - 🤝 I’m looking for help with **backend stuff 😉**
-
-- 💬 Ask me about **JavaScript , HTML , CSS**
 
 - 📫 How to reach me **varunpawardigital@gmail.com**
 
