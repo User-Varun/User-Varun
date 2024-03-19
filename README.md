@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Varun</h1>
 <h3 align="center">Learning Web Development</h3>
 
+
+<!-- date : 3/19/25 edit this file just to maintain the streak 😁 --> 
+
 <p align="center" > <img src="https://komarev.com/ghpvc/?username=user-varun&label=Profile%20views&color=0e75b6&style=flat" alt="user-varun" /> </p>     
 <!--
 <img  align="right" src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif"> --> 
