@@ -12,7 +12,7 @@
 <!--
 <img  align="right" src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif"> --> 
 
-<img  align="right" height='200px' width='400px'  src="https://github.com/User-Varun/User-Varun/assets/135313164/c4621ee5-a0f4-49a7-aae7-7bfbd9002c4e">  
+<img  align="right" height='200px' width='300px'  src="https://github.com/User-Varun/User-Varun/assets/135313164/c4621ee5-a0f4-49a7-aae7-7bfbd9002c4e">  
 
 
 - 🔭 I’m currently working on **Personal projects**
