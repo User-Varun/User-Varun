@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=user-varun&label=Profile%20views&color=0e75b6&style=flat" alt="user-varun" /> </p>
 
-- 🔭 I’m currently working on **Personal Projects**
+- 🔭 I’m currently working on **React.js Projects, JavaScript Projects, DataBases Related Projects**
 
-- 🌱 I’m currently learning **React.js , MongoDB ,Express.js**
+- 🌱 I’m currently learning **React.js, MongoDB, Express.js, MySql, C and Others**
 
 - 👯 I’m looking to collaborate on **Full-stack Projects**
 
