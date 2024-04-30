@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Varun</h1>
 <h3 align="center">Learning Front-end Dev</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=user-varun&label=Profile%20views&color=0e75b6&style=flat" alt="user-varun" /> </p>
+
 
 - 🔭 I’m currently working on **React.js Projects, JavaScript Projects, DataBases Related Projects**
 
