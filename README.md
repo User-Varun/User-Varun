@@ -9,10 +9,6 @@
 
 - 🌱 I’m currently learning **React.js, MongoDB, Express.js, MySql, C and Others**
 
-- 👯 I’m looking to collaborate on **Full-stack Projects**
-
-- 🤝 I’m looking for help with **Backend-stuff 😉**
-
 - 💬 Ask me about **Javascript, git & github , html & css**
 
 - 📫 How to reach me **varunpawardigital@gmail.com**
