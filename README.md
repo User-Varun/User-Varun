@@ -3,24 +3,7 @@
 <h1 align="center">Hi 👋, I'm Varun</h1>
 <h3 align="center">Learning Web Development</h3>
 
-
-
-- 🔭 I’m currently working on **React.js Projects, JavaScript Projects, DataBases Related Projects**
-
-- 🌱 I’m currently learning **React.js, MongoDB, Express.js, MySql, C and Others**
-
-- 💬 Ask me about **Javascript, git & github , html & css**
-
-- 📫 How to reach me **varunpawardigital@gmail.com**
-
-- ⚡ Fun fact **I like Dark Souls 🔥**
-
-
-
-
-
-<br>
- <strong>My Projects Till yet, take a look 😉</strong>
+ <strong>My projects till yet, take a look! ✌</strong>
 
 1. Guess The Number (Game):- https://guess-the-number-game-user-varun.vercel.app/
    
@@ -34,6 +17,16 @@
 
 6. Mapty ( Track your workouts ) :- https://mapty-umber-kappa.vercel.app/
 
+<br>
+
+<strong>A bit about my plans..</strong>
+- 🔭 I’m currently working on **React.js Projects, JavaScript Projects, DataBases Related Projects**
+
+- 🌱 I’m currently learning **React.js, MongoDB, Express.js, MySql, C and Others**
+
+- 📫 How to reach me **varunpawardigital@gmail.com**
+
+- ⚡ Fun fact **I like Dark Souls 🔥**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
