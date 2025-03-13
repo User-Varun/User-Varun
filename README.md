@@ -5,7 +5,7 @@
 
  <strong>My projects till yet, take a look! ✌</strong>
 
-0. An Extension for youtube: javascript-projects/easy-time-screenshot-extension
+0. An Extension for youtube: [javascript-projects/easy-time-screenshot-extension](https://github.com/User-Varun/my-projects/tree/main/javascript-projects/easy-time-screenshot-extension)
  
 1. Forkify (search for food recipes!) :- https://forkify-uservaruns-projects.vercel.app/
  
