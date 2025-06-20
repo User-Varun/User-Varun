@@ -4,11 +4,11 @@
 
  <h2><strong>Featured Projects</strong> </h2>
 
-1. Forkify (search for food recipes) :- https://forkify-uservaruns-projects.vercel.app/
+1. Forkify (search for food recipes) :- [Visit me](https://forkify-uservaruns-projects.vercel.app/)
+ 
+2. SmartMark ( rich bookMark for youtube ) :- [Visit me](https://github.com/User-Varun/smartMark)
 
-2. SmartMark ( rich bookMark for youtube ) :- https://github.com/User-Varun/smartMark
-
-3. A MERN fullstack lost&Found app :- https://lost-and-found-frontend-jprf.onrender.com  ( email : varun1@gmail.com, password : pass1234 ) 
+3. A MERN fullstack lost&Found app :- [Visit me](https://lost-and-found-frontend-jprf.onrender.com)  (For Test, use:- varun1@gmail.com, pass1234 ) 
 
 <br>
 
