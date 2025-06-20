@@ -14,7 +14,7 @@
 
 <h2> <strong>More Projects</strong> </h2>
 
-More of my projects at :- https://github.com/User-Varun/more-projects
+More of my projects at :- https://github.com/User-Varun/more_projects
 
 <br>
 
