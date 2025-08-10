@@ -23,7 +23,7 @@ More of my projects at :- https://github.com/User-Varun/more_projects
 <h2><strong>A bit about my plans..</strong> </h2>
 
 -  🔭 I’m currently working on **Backend projects  , extensions ,  fullstack apps in MERN stack**
-- 🌱 I’m currently learning **extension making , Fullstack apps Development**
+- 🌱 I’m currently learning **extension making , Fullstack apps Development, mobile dev using react-native + expo**
 
 - 📫 How to reach me **varunpawardigital@gmail.com**
 
