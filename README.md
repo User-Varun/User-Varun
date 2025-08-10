@@ -4,6 +4,8 @@
 
  <h2><strong>Featured Projects</strong> </h2>
 
+0. notes-app (mobile) :- [Visit me](https://github.com/User-Varun/notes-app)
+
 1. Forkify (search for food recipes) :- [Visit me](https://forkify-uservaruns-projects.vercel.app/)
  
 2. SmartMark ( rich bookMark for youtube ) :- [Visit me](https://github.com/User-Varun/smartMark)
