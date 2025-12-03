@@ -2,21 +2,29 @@
 
 <h1 align="center">Hi 👋, I'm Varun</h1>
 
- <h2><strong>Featured Projects</strong> </h2>
 
-0. notes-app (mobile) :- [Visit me](https://github.com/User-Varun/notes-app)
+<h2><strong>Featured Projects</strong> </h2>
 
-1. Forkify (search for food recipes) :- [Visit me](https://forkify-uservaruns-projects.vercel.app/)
+1. BizFlow :- [Visit me](https://github.com/User-Varun/bizflow-app) ( solving problem for B2B distributer )
+   
+2. Notes-app (mobile) :- [Visit me](https://github.com/User-Varun/notes-app)
  
-2. SmartMark ( rich bookMark for youtube ) :- [Visit me](https://github.com/User-Varun/smartMark)
+<h2><strong>Practice/Side Projects</strong></h2>
 
-3. A MERN fullstack lost&Found app :- [Visit me](https://lost-and-found-frontend-jprf.onrender.com)  (For Test, use:- varun1@gmail.com, pass1234 ) 
+1. Zay Shop :- [visit me](https://github.com/User-Varun/ZayShop) ( Eshop website using django and python )
+
+2. SmartMark ( browser extension, rich bookMark for youtube ) :- [Visit me](https://github.com/User-Varun/smartMark) <br>
+
+3. A MERN lost&Found app :- [Visit me](https://lost-and-found-frontend-jprf.onrender.com)  (For Test, use:- varun1@gmail.com, pass1234 )
+   
+4. Forkify (search for food recipes) :- [Visit me](https://forkify-uservaruns-projects.vercel.app/)
+
 
 <br>
 
 <h2> <strong>More Projects</strong> </h2>
 
-More of my projects at :- https://github.com/User-Varun/more_projects
+More of my projects at :- [visit me](https://github.com/User-Varun/more_projects)
 
 <br>
 
