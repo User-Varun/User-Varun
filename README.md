@@ -5,7 +5,7 @@
 
 <h2><strong>Featured Projects</strong> </h2>
 
-1. BizFlow :- [Visit me](https://github.com/User-Varun/bizflow-app) ( solving problem for B2B distributer )
+1. BizFlow :- [Visit me](https://bizflow-frontend-ww56.onrender.com/) ( solving problem for B2B distributer )
    
 2. Notes-app (mobile) :- [Visit me](https://github.com/User-Varun/notes-app)
  
