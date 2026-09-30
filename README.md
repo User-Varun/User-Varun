@@ -6,9 +6,11 @@
 
 <h2><strong>Featured Projects</strong> </h2>
 
-1. BizFlow :- [Visit me](https://bizflow-frontend-ww56.onrender.com/) ( solving problem for B2B distributer )
-
-2. Notes-app (mobile app) :- [Visit me](https://github.com/User-Varun/notes-app)
+1. Link Shortener :- [Visit me](https://github.com/User-Varun/link_shortner) 
+  
+2. BizFlow :- [Visit me](https://bizflow-frontend-ww56.onrender.com/) ( solving problem for B2B distributer )
+  
+3. Notes-app (mobile app) :- [Visit me](https://github.com/User-Varun/notes-app)
 
 <br>
 
